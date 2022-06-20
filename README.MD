@@ -6,11 +6,10 @@
 
 ## Introduction
 
-- 안녕하세요! 3년 차 웹 개발자 장은선입니다.
-- Front End 개발을 시작으로 파이를 넓혀가는 중입니다.
+- 안녕하세요! 4년 차 웹 개발자 장은선입니다.
+- 개인의 성장이 곧 회사의 성장으로 이루어진다고 생각합니다.
 - 코드를 작성하며 몇시간을 몰두했을 때의 성취감을 좋아합니다.
 - 새로운 것을 배우는 것에 두려움이 없습니다. 😊 앞으로도 제 계발을 할 수 있는 곳에서 성장해 나가고 싶습니다.
-- 마크업 목업 페이지 오픈소스 배포 준비 중입니다. 🥰
 
 ### Contact & Channel
 
@@ -25,28 +24,39 @@
 
 ---
 
-### Backend
-
-- Java, JavaScript, JSP, ajax
-- Spring MVC, Spring framework
-- Mybatis, SQL, ODBC, ORACLE
-- Firebase Google
-- Maven, Gradle
-- Git, SVN
-
 ### Frontend
 
-- HTML5, CSS3(SCSS), JS(ES6)
-- Angular.js, Vue.js, Ionic
-- jQuery, ajax, axios, lowdash
-- Flutter, Dart
-- Typescript
-- Bootstrap
-- Web accessibility, Response Web, Semantic Markup
+- JS|TS(ES6), HTML5, CSS3(SCSS,LESS), Dart
+- React, Vue,  Angular, Flutter
+- Webpack, redux-saga, Git
+
+### Backend
+
+- Java, Spring
+- Mybatis, SQL, ODBC, ORACLE, Firebase
+- Maven, Gradle
 
 # 👩🏻‍💻 Work Experience & Projects
 
 ---
+
+## Pandora.TV(Cobak Front-End)
+
+2021-07~ 재직 중
+
+- IDO admin 서비스 도입
+- 토큰세일 화이트리스트 admin 구축
+- Webpack 커스튬 성능개선
+- Tyepscript 도입 및 전체 JS변환작업
+- Vue 프레임워크에서 React로 일부 서비스 전환
+
+### 코박 서비스 운영
+
+40만유저를 가지고있는 국내 최대규모의 블록체인 커뮤니티에서 토큰세일 화이트리스트, 코박 라이브 쇼, 배너 광고 관련 기능을 **고객들의 다양한 니즈를 반영해 개발하고 고도화**하고 있습니다.
+
+현재 서비스 고도화를 위해 타입추론을 통한 전체적인 프로젝트의 코드를 JS에서 TS로 변환작업을 주도하고 있고, **웹 성능향상**을 위해 호환되지 않는 webpack 관련 라이브러리를 걷어내고 **압축 리소스를 사용하는 방식으로 FCP속도를 60% 이상 향상**시킨 성과가 있습니다. 
+
+**서비스 글로벌 확장**을 위해 WEB3기술을 사용한 글로벌 IDO서비스를 론칭 준비 중이며, 웹 내 NFT 마켓플레이스 관련 확장 예정에 있습니다. 
 
 ## Evolve Branding (인턴 - 캐나다)
 
@@ -56,58 +66,51 @@
 - Google 번역기 API 라이브러리 이용,  목소리 인식 실시간 번역 서비스
 - 보이스 인식 텍스트 시각화 & 사전 서비스 오픈
 - SNS 게시글 업로드, 수정, 삭제 모듈 개발
-- Neumorphic 테마 패키지 위젯 개발
+- Neumorphic 커스텀 테마 패키지 위젯 개발
 - Google 클라우드 서비스 Firebase를 사용하여 백앤드 연동
 
 ### 📝프로젝트
 
-- [Cat posting App (SNS)](https://github.com/sunny-jang/cat_posting_app)
-- [Evolve shop (eCommerce)](https://github.com/sunny-jang/evolve_store)
-- [Dictionary Translator App](https://github.com/sunny-jang/dictionary_translator_app)
-- [Stopwatch App](https://github.com/sunny-jang/stopwatch)
+인턴십 프로그렘의 **팀 리더를 맡아** Flutter 프레임워크를 팀원들과 함께 익숙해지기 위한 **트레이닝을 주도**하였습니다. Firebase로 백앤드를 구축하고, SNS앱 개발로 **CRUD 개발에대한 기초**를 다질 수 있도록 하였고, 목소리 인식 번역기 앱을 개발하여 **필요 라이브러리를 써칭하고 서비스에 접목**시키는 것을 시도해보았습니다. 모든 앱들은 매니저에 요청에 의해 Neumorphic 풍의 디자인으로 제작되었는데, Neumorphic 관련 라이브러리가 부족하고 기능이 제한되어있어 테마 패키지 **위젯(모듈)을 커스텀 개발**해 코드를 모듈화 하였고, 모든 프로젝트에서 사용할 수 있도록 **재사용성을 높혔습니다.** 
 
-## F9dev (Front End 개발자)
+글로벌 기업 문화를 접해보고싶어 지원한 인턴십 프로그램이었는데, 그들이 새로운 기술을 대하는 방식과 기술의 흐름을 볼 수 있는 좋은 시간이었습니다.
+
+[Cat posting App (SNS)](https://github.com/sunny-jang/cat_posting_app)/ [Evolve shop (eCommerce)](https://github.com/sunny-jang/evolve_store)/ [Dictionary Translator App](https://github.com/sunny-jang/dictionary_translator_app)/ [Stopwatch App](https://github.com/sunny-jang/stopwatch)
+
+## F9dev (Front End)
 
 2017-06~2019-01
 
 - AngularJS, Ionic 을 사용한 Web 기반의 Hybrid App 개발
 - 성능 향상을 위한 JavaScript 애니메이션 CSS3 변환
-- 건강팔찌 연동, Canvas를 사용하여 데이터를 시각화 경험
-- Monthly Dev Conference 진행 및 발표
+- 건강팔찌 연동, Canvas를 사용하여 데이터를 시각화
 - RnBStory SNS 채팅창 화면 개발
 - BuyCar 경매 어플 입찰 Calculator 모듈 개발
-- **Tech Stack : AngularJs, Ionic, HTML5, CSS3, javascript, jquery, ajax**
+- Monthly Dev Conference 진행 및 발표
+- **Tech Stack : AngularJs, Ionic, javascript, ajax**
 
 ### 📝프로젝트
 
-- [2017.07 ~ 2017.07] Innomight Web 홈페이지 반응형 구축
-- [2017.08 ~ 2017.08] Carring App hot deal 업데이트 작업
-- [2017.08 ~ 2017.10] Spotv App/Web 구축
-- [2017.10 ~ 2017.12] RnBStory App/Web 구축
-- [2017.12 ~ 2018.02]Closedshop 웹/모바일 구축
-- [2018.02 ~ 2018.04] Dqlab App 앱 개편
-- [2018.04 ~ 2018.06] Bye car 소비자,딜러 App 앱 개편, 신규 구축
-- [2018.04 ~ 2019.01] Lable Group eCommerce 서비스 개발
+- 자동차 경매 앱 (Carring , Bye car)
+- 웹뷰기반 하이브리드 앱 (스포티비, Dqlab)
+- Lable Group e커머스 서비스 (Closedshop)
 
-## ㈜메이젠이터렉트
+Angular와 ionic의 조합으로 **웹기반 하이브리드앱을 구축**하고, 웹뷰가 앱 내에서 어떻게 작동되며, **운영을 통한 각종 변수를 접하고 대응**했습니다.  **자사 e커머스 서비스를 운영 유지**보수하며 고도화하는 업무를 했습니다. 엔젤 투자를 받으며 성장하는 작은 스타트업이었기에 초기의 프로토타입에서 ****수많은 변화를 거쳐 아예 새로운 서비스로 ****성장했습니다. 초기 멤버로써 **서비스에 애정을 가지고 고객의 시선에서의 경험을 최우선**으로 하는 업무 분위기에서 프론트앤드 개발자로 성장할 수 있었습니다. 팀원들과 Monthly **개발 컨퍼런스에 참여**해 구성원으로서 기술로 회사의 비지니스에 더 많이 기여할 수 있는 방향을 고민해왔습니다.
+
+## ㈜메이젠인터렉트
 
 2016-01~2017-01
 
-- 나라사랑카드포털 웹 접근성 90%→98% 불합격 수정 및 마크 획득
-- IE8, Safari, Chrome, Firefox 등 브라우저 호환성 준수 등 크로스 브라우징 작업
-- Mobile First 기준에 맞춘 휴대폰, 테블릿, PC 버전 반응형 작업
-- Nexacro tool 사용 현대 하이라이프 시스템 구축
-- 대규모 프로젝트 화면 개발
-- **Tech Stack : HTML, CSS, Jquery, javascript, Nexacro**
+- 웹 접근성 90%→98% 불합격 수정 및 마크 획득
+- 브라우저 호환성 준수 등 크로스 브라우징 작업
+- Mobile First 휴대폰, 테블릿, PC 버전 반응형 작업
 
 ### 📝프로젝트
 
-- [2016.02 ~ 2016.04] 농협케미컬 웹/모바일구축
-- [2016.05 ~ 2016.07] aT더외식 웹/모바일반응형 홈페이지 구축
-- [2016.08 ~ 2016.10] 현대하이라이프 시스템 구축
-- [2016.11 ~ 2016.12] aT식품사업관리 웹/모바일구축
-- [2016.12 ~ 2016.12] 신한열린강의실 웹사이트 구축
-- [2016.12 ~ 2017.01] 나라사랑카드포털 웹접근성 수정및 마크획득
+- 농협케미컬/ 현대하이라이프 시스템/ 신한열린강의실
+- 나라사랑카드포털 웹접근성 수정및 마크획득
+
+**장애가 있는 사람들의 웹사이트 이용을 편리하게 만들기위해** 웹접근성에 대한 이해를 가지고 프로젝트에 **접근성** 기술을 적용했고, 기관에서 마크를 취득했습니다. 브라우저 호환성을 위한 **여러 브라우저에서의 테스트**를 하며 전체적인 프로젝트의 **화면 구축**, 브라우저  버전별 나오는 이슈에 대응하는 업무를 주로 맡았습니다. Mobile First 를 기준으로한 각종 디바이스별 **반응형 작업**을 대부분의 프로젝트에 적용하였습니다. 퍼블리셔로 웹 개발의 스타트를 끊었습니다.
 
 # 🚴🏼‍♂️ Personal Experience & Projects
 
@@ -115,55 +118,45 @@
 
 ## NearBnB
 
-2020-03 ~ 2020-04
-
 **편리한 홈 쉐어 서비스**
 
 [https://github.com/sunny-jang/NearBnb](https://github.com/sunny-jang/NearBnb)
 
-- 편하게 집에서 놀고 싶은 당신을 위한 위 치 기반 숙소 공유 서비스!
-- Airbnb를 참고하여 서비스를 개발해보았습니다
 - Geolocation 이용, 좌표 저장, 범위설정으로 현재 위치 기반 주변 숙소들을 보여줍니다.
 - Firebase 클라우드 저장소를 활용, 다량/큰 사이즈의 파일들을 저장했습니다.
 - 개발환경 : JDK 1.8, Oracle 11g XE, Spring framework, MyBatis 3, Tomcat 9.0
-- 개발 툴 : Eclipse, SQL Developer
 - 사용 모듈 : 네이버 SMTP, 카카오페이, 아임포트, 인스타그램 API, Firebase, 카카오맵 API
-
 
 ---
 
 ## C-IT
 
-2020-02 ~ 2020-03
+**IT 업계의 소통의 장** 
 
-**편리한 홈 쉐어 서비스**
-
-[https://github.com/sunny-jang/NearBnb](https://github.com/sunny-jang/NearBnb)
+[https://github.com/sunny-jang/C-it](https://github.com/sunny-jang/C-it)
 
 - IT 취준생을 위한 IT 뉴스 커뮤니티 C-it은 개발자를 꿈꾸는 이들에게 it 업계의 각종 최신 소식과 인터뷰를 실시간으로 전달하고 소통의 장을 마련하고자 했습니다.
 - Smart Editor 여러 편집기능 지원합니다.
 - Servlet, JSP 기반  CRUD 개발(공지사항, 뉴스, 게시판)능력 향상을 중점으로 제작했습니다.
 - RegExp를 사용, 카피된 기사 내용의 내용, 이미지 추출 모듈 개발
 - 개발환경 : JDK 1.8, Oracle 11g XE, Tomcat 9.0, Servlet 4
-- 개발 툴 : Eclipse, SQL Developer
 - Tech Stack : Java, Javascript, jQuery, HTML5, CSS3, JSP, Servlet, Ajax, Oracle, SQL, jstl/el/cos/fmt
-
 
 # ✍🏻 Presentation & Article
 
 ---
 
-**[그냥 내 이야기](https://sunny-jang.tistory.com/category/%EA%B7%B8%EB%83%A5%20%EB%82%B4%20%EC%9D%B4%EC%95%BC%EA%B8%B0)**
+[**WEBPACK**](https://sunny-jang.tistory.com/category/Webpack)
 
-## 서버 개발자 취업 준비 [일상/일기]
+## **webpack 라이브러리 걷어내고 커스텀하기 1편**
 
-[https://sunny-jang.tistory.com/33](https://sunny-jang.tistory.com/33)
+[https://sunny-jang.tistory.com/47?category=1263281](https://sunny-jang.tistory.com/47?category=1263281)
 
-**[자바](https://sunny-jang.tistory.com/category/%EC%9E%90%EB%B0%94)**
+[**REACT/TYPESCRIPT**](https://sunny-jang.tistory.com/category/React)
 
-## 이클립스 Lombok @Getter,@Setter Annotation 인식 안됨 [해결]
+## **React/JavaScript 에서 React/TypeScript 마이그레이션 중 발생한 오류**
 
-[https://sunny-jang.tistory.com/35](https://sunny-jang.tistory.com/35)
+[https://sunny-jang.tistory.com/42?category=1239166](https://sunny-jang.tistory.com/42?category=1239166)
 
 **[DATABASE](https://sunny-jang.tistory.com/category/DATABASE)**
 
@@ -185,7 +178,7 @@
 
 **컴퓨터공학과**
 
-2017-03 ~ 2022-02 (졸업예정)
+2017-03 ~ 2022-02
 
 # 🏅 Certificate
 
