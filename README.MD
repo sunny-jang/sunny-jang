@@ -1,9 +1,5 @@
 # 배움을 즐기는 개발자, 장은선입니다.
 
-# 💁🏻‍♀️About me
-
----
-
 ## Introduction
 
 - 안녕하세요! 4년 차 웹 개발자 장은선입니다.
@@ -20,21 +16,7 @@
 - **Github** | [**https://github.com/sunny-jang**](https://github.com/sunny-jang)
 - **Blog** | [**https://sunny-jang.tistory.com**](https://sunny-jang.tistory.com/)
 
-# ⌨️ Skills
 
----
-
-### Frontend
-
-- JS|TS(ES6), HTML5, CSS3(SCSS,LESS), Dart
-- React, Vue,  Angular, Flutter
-- Webpack, redux-saga, Git
-
-### Backend
-
-- Java, Spring
-- Mybatis, SQL, ODBC, ORACLE, Firebase
-- Maven, Gradle
 
 # 👩🏻‍💻 Work Experience & Projects
 
@@ -55,8 +37,6 @@
 40만유저를 가지고있는 국내 최대규모의 블록체인 커뮤니티에서 토큰세일 화이트리스트, 코박 라이브 쇼, 배너 광고 관련 기능을 **고객들의 다양한 니즈를 반영해 개발하고 고도화**하고 있습니다.
 
 현재 서비스 고도화를 위해 타입추론을 통한 전체적인 프로젝트의 코드를 JS에서 TS로 변환작업을 주도하고 있고, **웹 성능향상**을 위해 호환되지 않는 webpack 관련 라이브러리를 걷어내고 **압축 리소스를 사용하는 방식으로 FCP속도를 60% 이상 향상**시킨 성과가 있습니다. 
-
-**서비스 글로벌 확장**을 위해 WEB3기술을 사용한 글로벌 IDO서비스를 론칭 준비 중이며, 웹 내 NFT 마켓플레이스 관련 확장 예정에 있습니다. 
 
 # ✍🏻 Presentation & Article
 
