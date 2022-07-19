@@ -40,15 +40,15 @@
 
 ---
 
-## **webpack 라이브러리 걷어내고 커스텀하기 1편**
+### **webpack 라이브러리 걷어내고 커스텀하기 1편**
 
 [https://sunny-jang.tistory.com/47?category=1263281](https://sunny-jang.tistory.com/47?category=1263281)
 
-## **React/JavaScript 에서 React/TypeScript 마이그레이션 중 발생한 오류**
+### **React/JavaScript 에서 React/TypeScript 마이그레이션 중 발생한 오류**
 
 [https://sunny-jang.tistory.com/42?category=1239166](https://sunny-jang.tistory.com/42?category=1239166)
 
-## 데이터 베이스 개요/ Data와 Database, DBMS 변천과정 정리
+### 데이터 베이스 개요/ Data와 Database, DBMS 변천과정 정리
 
 [https://sunny-jang.tistory.com/8](https://sunny-jang.tistory.com/8)
 
