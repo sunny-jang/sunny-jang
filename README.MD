@@ -1,8 +1,6 @@
 # 배움을 즐기는 개발자, 장은선입니다.
 
 ## Introduction
-
-- 안녕하세요! 4년 차 웹 개발자 장은선입니다.
 - 개인의 성장이 곧 회사의 성장으로 이루어진다고 생각합니다.
 - 코드를 작성하며 몇시간을 몰두했을 때의 성취감을 좋아합니다.
 - 새로운 것을 배우는 것에 두려움이 없습니다. 😊 앞으로도 제 계발을 할 수 있는 곳에서 성장해 나가고 싶습니다.
@@ -42,19 +40,13 @@
 
 ---
 
-[**WEBPACK**](https://sunny-jang.tistory.com/category/Webpack)
-
 ## **webpack 라이브러리 걷어내고 커스텀하기 1편**
 
 [https://sunny-jang.tistory.com/47?category=1263281](https://sunny-jang.tistory.com/47?category=1263281)
 
-[**REACT/TYPESCRIPT**](https://sunny-jang.tistory.com/category/React)
-
 ## **React/JavaScript 에서 React/TypeScript 마이그레이션 중 발생한 오류**
 
 [https://sunny-jang.tistory.com/42?category=1239166](https://sunny-jang.tistory.com/42?category=1239166)
-
-**[DATABASE](https://sunny-jang.tistory.com/category/DATABASE)**
 
 ## 데이터 베이스 개요/ Data와 Database, DBMS 변천과정 정리
 
