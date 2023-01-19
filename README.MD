@@ -13,5 +13,5 @@
 
 - **Github** | [**https://github.com/sunny-jang**](https://github.com/sunny-jang)
 - **Blog** | [**https://sunny-jang.tistory.com**](https://sunny-jang.tistory.com/)
-- **Resume** | [**https://sunny-jang.github.io/resume/sunny-resume/public/**]([https://sunny-jang.tistory.com/](https://sunny-jang.github.io/resume/sunny-resume/public/))
+- **Resume** | [**https://sunny-jang.github.io/resume/sunny-resume/public/**](https://sunny-jang.tistory.com/](https://sunny-jang.github.io/resume/sunny-resume/public/)
 
